@@ -1,5 +1,3 @@
-<img width="1834" alt="Make your README" src="https://github.com/user-attachments/assets/dfe71a57-aa45-47ae-af1a-018d8a1c06c3">
-
 <div align=center>
 <h2>🛠 MY STACKS 🛠</h2>
 </div>
