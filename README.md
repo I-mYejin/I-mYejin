@@ -31,3 +31,5 @@
 📝 Major in Computer Science Engineering <br/>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rainyjin03)](https://solved.ac/profile/rainyjin03) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=I-mYejin&layout=compact)
+
